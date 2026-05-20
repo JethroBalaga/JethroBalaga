@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Frameworks, Mobile development , Web development , etc<br><br>📫 How to reach me balagajet@gmail.com<br><br>⚡ Fun fact I AM HARD STUCK IN GOLD IN VALORANT😢</p>
+<p align="left">🌱 I’m currently learning Frameworks, Mobile development , Web development , etc<br><br>📫 How to reach me balagajet@gmail.com<br><br>⚡ Fun fact I AM HARD STUCK PLATINUM IN VALORANT😢</p>
 
 ###
 
