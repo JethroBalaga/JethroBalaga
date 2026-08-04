@@ -1,6 +1,9 @@
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt5d2V5dW42dGprZDBua2dlYmZmNWl4YWVvc2hsNTA5M3c1bnVuayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/g04poZxA1nAyTs9DQY/giphy.gif"  />
 
 ###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <p align="left">Hi 👋, I'm Jethro Jay U. Balaga</p>
 
