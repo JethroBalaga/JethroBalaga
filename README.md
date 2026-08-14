@@ -62,9 +62,23 @@ alt="Coding animation"
 
 <h2 align="left">📊 GitHub Statistics</h2>
 
-<div align="left"> <img height="180" src="https://github-stats-extended.vercel.app/api?username=Jethrobalaga&show_icons=true&theme=dracula" alt="Jethro Jay's GitHub Stats" />
+<div align="center">
 
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jethrobalaga&layout=compact&langs_count=5&theme=dracula" alt="Jethro Jay's Top Languages" />
+  <!-- GitHub Stats -->
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=Jethrobalaga&show_icons=true&theme=dracula"
+    alt="Jethro Jay's GitHub Stats"
+  />
+
+  <br><br>
+
+  <!-- Most Used Languages -->
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jethrobalaga&layout=compact&langs_count=5&theme=dracula"
+    alt="Jethro Jay's Top Languages"
+  />
 
 </div>
 
