@@ -1,7 +1,7 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=blinking&color=gradient"
     alt="Header"
   />
 </div>
@@ -13,7 +13,8 @@
   <br><br>
   🌱 I'm currently learning Frameworks, Mobile Development, Web Development, etc.
   <br><br>
-  📫 How to reach me: <a href="mailto:balagajet@gmail.com">balagajet@gmail.com</a>
+  📫 How to reach me:
+  <a href="mailto:balagajet@gmail.com">balagajet@gmail.com</a>
   <br><br>
   ⚡ Fun fact: I AM HARD STUCK PLATINUM IN VALORANT 😢
   <br><br>
@@ -51,50 +52,35 @@
 <br>
 
 <img
-  align="right"
-  height="200"
-  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt5d2V5dW42dGprZDBua2dlYmZmNWl4YWVvc2hsNTA5M3c1bnVuayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/g04poZxA1nAyTs9DQY/giphy.gif"
-  alt="Coding animation"
+align="right"
+height="200"
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt5d2V5dW42dGprZDBua2dlYmZmNWl4YWVvc2hsNTA5M3c1bnVuayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/g04poZxA1nAyTs9DQY/giphy.gif"
+alt="Coding animation"
 />
 
 <br>
 
-<!-- PACMAN CONTRIBUTION GRAPH -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Jethrobalaga/Jethrobalaga/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Jethrobalaga/Jethrobalaga/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/Jethrobalaga/Jethrobalaga/output/pacman-contribution-graph.svg"
-  />
-</picture>
+<h2 align="left">📊 GitHub Statistics</h2>
 
-<br>
-
-<!-- GITHUB STATS -->
 <div align="left">
   <img
+    height="180"
     src="https://github-readme-stats.vercel.app/api?username=Jethrobalaga&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
-    height="150"
-    alt="GitHub stats"
+    alt="Jethro Jay's GitHub Stats"
   />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jethrobalaga&layout=compact&langs_count=5&theme=dracula"
-    height="150"
-    alt="Top languages"
-  />
+<img
+ height="180"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jethrobalaga&layout=compact&langs_count=5&theme=dracula"
+ alt="Jethro Jay's Top Languages"
+/>
+
 </div>
 
 <br>
 
-<!-- SNAKE ANIMATION -->
+<h2 align="left">🐍 Contribution Snake</h2>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -112,17 +98,17 @@
 
 <br>
 
-<!-- PROFILE VIEWS -->
 <div align="center">
   <img
     src="https://visitor-badge.laobi.icu/badge?page_id=Jethrobalaga.Jethrobalaga"
-    alt="Profile views"
+    alt="Profile Views"
   />
 </div>
 
 <br>
 
-<!-- TECHNOLOGIES -->
+<h2 align="left">🛠️ Languages & Tools</h2>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
