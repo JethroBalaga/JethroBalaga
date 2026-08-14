@@ -53,35 +53,35 @@
 <h2 align="left">📊 GitHub Statistics</h2>
 
 <table>
-<tr>
-<td valign="top">
+  <tr>
+    <td valign="top">
 
-<img
-  height="180"
-  src="https://github-stats-extended.vercel.app/api?username=Jethrobalaga&show_icons=true&theme=dracula"
-  alt="Jethro Jay's GitHub Stats"
-/>
+      <img
+        height="180"
+        src="https://github-stats-extended.vercel.app/api?username=Jethrobalaga&show_icons=true&theme=dracula"
+        alt="Jethro Jay's GitHub Stats"
+      />
 
-<br><br>
+      <br><br>
 
-<img
-  height="180"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jethrobalaga&layout=compact&langs_count=5&theme=dracula"
-  alt="Jethro Jay's Top Languages"
-/>
+      <img
+        height="180"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jethrobalaga&layout=compact&langs_count=5&theme=dracula"
+        alt="Jethro Jay's Top Languages"
+      />
 
-</td>
+    </td>
 
-<td valign="top">
+    <td valign="top">
 
-<img
-  height="360"
-  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt5d2V5dW42dGprZDBua2dlYmZmNWl4YWVvc2hsNTA5M3c1bnVuayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/g04poZxA1nAyTs9DQY/giphy.gif"
-  alt="Coding animation"
-/>
+      <img
+        height="360"
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt5d2V5dW42dGprZDBua2dlYmZmNWl4YWVvc2hsNTA5M3c1bnVuayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/g04poZxA1nAyTs9DQY/giphy.gif"
+        alt="Coding animation"
+      />
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 <br>
@@ -95,10 +95,8 @@
   />
 
   <source
-<picture>
- <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Jethrobalaga/Jethrobalaga/output/github-contribution-grid-snake-dark.svg">
-</picture>
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Jethrobalaga/Jethrobalaga/output/github-contribution-grid-snake.svg"
   />
 
   <img
@@ -117,4 +115,3 @@
 </div>
 
 <br>
-
