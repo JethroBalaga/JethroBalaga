@@ -95,7 +95,7 @@
   />
 
   <source
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: violet)"
     srcset="https://raw.githubusercontent.com/Jethrobalaga/Jethrobalaga/output/github-contribution-grid-snake.svg"
   />
 
