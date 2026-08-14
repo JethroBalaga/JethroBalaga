@@ -51,7 +51,7 @@
 <br>
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Jethrobalaga&hide_border=true&background=1a1a1a&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak Stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Jethrobalaga&hide_border=true&background=1a1a1a&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak Stats" />
 </div>
 
 <br>
@@ -73,7 +73,4 @@
 <br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jethrobalaga.Jethrobalaga" alt="Profile Views" />
-</div>
-
-<br>
+  <img src="https://visitor-badge.laobi.icu/bad
