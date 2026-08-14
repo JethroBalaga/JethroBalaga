@@ -62,24 +62,37 @@ alt="Coding animation"
 
 <h2 align="left">📊 GitHub Statistics</h2>
 
-<div align="center">
+<table>
+  <tr>
+    <td valign="top">
 
-  <!-- GitHub Stats -->
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api?username=Jethrobalaga&show_icons=true&theme=dracula"
-    alt="Jethro Jay's GitHub Stats"
-  />
+      <img
+        height="180"
+        src="https://github-stats-extended.vercel.app/api?username=Jethrobalaga&show_icons=true&theme=dracula"
+        alt="Jethro Jay's GitHub Stats"
+      />
 
-  <br><br>
+      <br><br>
 
-  <!-- Most Used Languages -->
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jethrobalaga&layout=compact&langs_count=5&theme=dracula"
-    alt="Jethro Jay's Top Languages"
-  />
+      <img
+        height="180"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jethrobalaga&layout=compact&langs_count=5&theme=dracula"
+        alt="Jethro Jay's Top Languages"
+      />
 
+    </td>
+
+    <td valign="top" align="right">
+
+      <img
+        height="360"
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGt5dW5mZDBua2dlYmZmNWl4YWVvc2hsNTA5M3c1bnVuayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/g04poZxA1nAyTs9DQY/giphy.gif"
+        alt="Coding animation"
+      />
+
+    </td>
+  </tr>
+</table>
 </div>
 
 <br>
