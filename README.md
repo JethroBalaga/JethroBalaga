@@ -1,6 +1,4 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=0:1A0B2E,50:9D4EDD,100:C77DFF" alt="Header" />
-</div>
+
 
 <h2 align="left">Hi 👋, I'm Jethro Jay U. Balaga</h2>
 
