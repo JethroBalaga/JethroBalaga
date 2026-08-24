@@ -34,7 +34,7 @@ These are my Languages and Tools 🤓
 </div>
 </td>
 <td valign="top" width="35%">
-<img width="100%" src="https://i.pinimg.com/originals/27/bb/a8/27bba8cdb38575166a29a33daddf2a48.gif" alt="Hacker gif" />
+<img width="100%" src="https://i.giphy.com/oFvFtrhrmIFFe.webp" alt="Hacker gif" />
 </td>
 </tr>
 </table>
