@@ -34,11 +34,12 @@ These are my Languages and Tools 🤓
 </div>
 </td>
 <td valign="top" width="35%">
-<img width="100%" src="[https://media1.tenor.com/m/DUlvPVrPZrwAAAAd/hacker-pc.gif" alt="Hacker gif](https://i.pinimg.com/originals/27/bb/a8/27bba8cdb38575166a29a33daddf2a48.gif)" />
+<img width="100%" src="https://i.pinimg.com/originals/27/bb/a8/27bba8cdb38575166a29a33daddf2a48.gif" alt="Hacker gif" />
 </td>
 </tr>
 </table>
 <br>
+
 <h2 align="left">📊 GitHub Statistics</h2>
 <table>
 <tr>
@@ -53,6 +54,7 @@ These are my Languages and Tools 🤓
 </tr>
 </table>
 <br>
+
 <h2 align="left">🐍 Contribution Snake</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jethrobalaga/Jethrobalaga/output/github-contribution-grid-snake-dark.svg" />
@@ -60,6 +62,7 @@ These are my Languages and Tools 🤓
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Jethrobalaga/Jethrobalaga/output/github-contribution-grid-snake.svg" />
 </picture>
 <br>
+
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Jethrobalaga.Jethrobalaga" alt="Profile Views" />
 </div>
