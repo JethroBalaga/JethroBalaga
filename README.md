@@ -1,17 +1,17 @@
-<h2 align="left">Hi <img src="https://rickandmortyapi.com/api/character/avatar/1.jpeg" width="28" style="border-radius:50%;vertical-align:middle;" alt="Rick"/>, I'm Jethro Jay U. Balaga</h2>
+<h2 align="left">Hi 👋, I'm Jethro Jay U. Balaga</h2>
 <table>
 <tr>
 <td valign="top">
 <p align="left">
 Noob Programmer from Philippines (For now, still grinding)
 <br><br>
-<img src="https://rickandmortyapi.com/api/character/avatar/2.jpeg" width="20" style="border-radius:50%;vertical-align:middle;" alt="Morty"/> I'm currently learning Frameworks, Mobile development, Web development, etc.
+🌱 I’m currently learning Frameworks, Mobile development, Web development, etc.
 <br><br>
-<img src="https://rickandmortyapi.com/api/character/avatar/1.jpeg" width="20" style="border-radius:50%;vertical-align:middle;" alt="Rick"/> How to reach me: balagajet@gmail.com
+📫 How to reach me: balagajet@gmail.com
 <br><br>
-<img src="https://rickandmortyapi.com/api/character/avatar/2.jpeg" width="20" style="border-radius:50%;vertical-align:middle;" alt="Morty"/> Fun fact: I AM HARD STUCK PLATINUM IN VALORANT 😢
+⚡ Fun fact: I AM HARD STUCK PLATINUM IN VALORANT 😢
 <br><br>
-These are my Languages and Tools <img src="https://rickandmortyapi.com/api/character/avatar/1.jpeg" width="20" style="border-radius:50%;vertical-align:middle;" alt="Rick"/>
+These are my Languages and Tools 🤓
 </p>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -39,7 +39,7 @@ These are my Languages and Tools <img src="https://rickandmortyapi.com/api/chara
 </tr>
 </table>
 <br>
-<h2 align="left"><img src="https://rickandmortyapi.com/api/character/avatar/1.jpeg" width="28" style="border-radius:50%;vertical-align:middle;" alt="Rick"/> GitHub Statistics</h2>
+<h2 align="left">📊 GitHub Statistics</h2>
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -53,7 +53,7 @@ These are my Languages and Tools <img src="https://rickandmortyapi.com/api/chara
 </tr>
 </table>
 <br>
-<h2 align="left"><img src="https://rickandmortyapi.com/api/character/avatar/2.jpeg" width="28" style="border-radius:50%;vertical-align:middle;" alt="Morty"/> Contribution Snake</h2>
+<h2 align="left">🐍 Contribution Snake</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jethrobalaga/Jethrobalaga/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jethrobalaga/Jethrobalaga/output/github-contribution-grid-snake.svg" />
