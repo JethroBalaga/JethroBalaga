@@ -39,14 +39,13 @@ These are my Languages and Tools 🤓
 </tr>
 </table>
 <br>
-
 <h2 align="left">📊 GitHub Statistics</h2>
 <table>
 <tr>
 <td valign="top" width="50%">
-<img width="100%" src="https://github-stats-extended.vercel.app/api?username=Jethrobalaga&show_icons=true&theme=dracula" alt="Jethro Jay's GitHub Stats" />
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=Jethrobalaga&show_icons=true&hide_border=true&title_color=ff4d4d&icon_color=ff4d4d&text_color=ffffff&bg_color=0d1117&ring_color=ff4d4d" alt="Jethro Jay's GitHub Stats" />
 <br>
-<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jethrobalaga&layout=compact&langs_count=5&theme=dracula" alt="Jethro Jay's Top Languages" />
+<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jethrobalaga&layout=compact&langs_count=5&hide_border=true&title_color=ff4d4d&text_color=ffffff&bg_color=0d1117" alt="Jethro Jay's Top Languages" />
 </td>
 <td valign="top" width="50%">
 <img width="80%" src="https://media.giphy.com/media/g04poZxA1nAyTs9DQY/giphy.gif" alt="Coding animation" />
@@ -54,7 +53,6 @@ These are my Languages and Tools 🤓
 </tr>
 </table>
 <br>
-
 <h2 align="left">🐍 Contribution Snake</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jethrobalaga/Jethrobalaga/output/github-contribution-grid-snake-dark.svg" />
@@ -62,7 +60,6 @@ These are my Languages and Tools 🤓
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Jethrobalaga/Jethrobalaga/output/github-contribution-grid-snake.svg" />
 </picture>
 <br>
-
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Jethrobalaga.Jethrobalaga" alt="Profile Views" />
 </div>
